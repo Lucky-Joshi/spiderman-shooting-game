@@ -26,7 +26,7 @@ This project is a Spiderman-themed shooting game where players control Spiderman
 - Defeat all enemies to advance to the next level.
 
 ## Play Online
-You can also play the game online at [this link](https://lucky-joshi.github.io/spiderman-shooting-game/).
+You can also play the game online [by clicking here](https://lucky-joshi.github.io/spiderman-shooting-game/).
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
